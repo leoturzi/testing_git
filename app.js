@@ -2,6 +2,10 @@ const h2 = document.createElement("h2");
 h2.innerText = "Hello World from h2";
 document.querySelector("main").append(h2);
 
+// nombres
+
+const nombres = ["Juan", "Pedro", "Maria", "Pablo"];
+
 // funcion q recibe un nombre y lo devuelve en Mayusculas
 function saludar(nombre) {
 	const h3 = document.createElement("h3");
