@@ -4,7 +4,7 @@ document.querySelector("main").append(h2);
 
 // nombres
 
-const nombres = ["Juan", "Pedro", "Maria", "Pablo"];
+const nombres = ["Juan", "Pedro", "Maria", "Pablo", "Leito"];
 
 // funcion q recibe un nombre y lo devuelve en Mayusculas
 function saludar(nombre) {
